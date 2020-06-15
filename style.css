@@ -44,6 +44,11 @@ header {
 #company {
   float: right;
   text-align: right;
+  margin-top: 8px
+}
+
+#company img {
+   height: 70px;
 }
 
 
